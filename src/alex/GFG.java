@@ -20,7 +20,11 @@ class SDE2 implements salary {
     {
         this.salary = salary;
     }
-    void printSalary() { System.out.println(this.salary); }
+    void printSalary() {
+        System.out.println("aaa");
+        System.out.println(this.salary);
+        System.out.println("bbb");
+    }
 }
 
 public class GFG {
