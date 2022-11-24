@@ -23,7 +23,7 @@ class SDE2 implements salary {
     void printSalary() {
         System.out.println("xxx");
         System.out.println(this.salary);
-        System.out.println("zzz");
+        System.out.println("bbb");
     }
 }
 
