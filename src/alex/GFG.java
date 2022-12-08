@@ -25,6 +25,8 @@ class SDE2 implements salary {
         System.out.println(this.salary);
         System.out.println("bbb");
         System.out.println("приветули");
+        System.out.println("привет2");
+        System.out.println("привет3");
     }
 }
 
